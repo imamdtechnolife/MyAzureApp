@@ -17,7 +17,7 @@
  </head>
  <body>
  <h1>Register disini kawan-kawan RSUD KLU</h1>
- <p>Masukkan nama dan E-Mai mu, kemudian klik <strong>Submit</strong> untuk register.</p>
+ <p>Masukkan nama dan E-Mail mu, kemudian klik <strong>Submit</strong> untuk register.</p>
  <form method="post" action="index.php" enctype="multipart/form-data" >
        Nama  <input type="text" name="name" id="name"/></br></br>
        Email <input type="text" name="email" id="email"/></br></br>
